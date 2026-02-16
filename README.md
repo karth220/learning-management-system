@@ -1,4 +1,4 @@
-# 🎓 Learning Management System (LMS)
+# 🎓 Learning Management System
 
 A comprehensive Learning Management System built with **Java Swing** and **MySQL** database.
 
